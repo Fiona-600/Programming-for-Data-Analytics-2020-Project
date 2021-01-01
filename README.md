@@ -14,7 +14,7 @@ This project creates and models a simulated data set related to the factors unde
 
 **Qualities and attributes of the dataset**
 
-The dataset contains 200 samples (rows), and 5 variables (columns) named; Duration (Days), Age_Yrs, Gender, Pedigree and Size. 
+The dataset contains 200 samples (rows), and 6 variables (columns) named; Duration (Days), Age_Mths, Age_Yrs, Gender, Pedigree and Size. 
 
 For each sample, five features/variables were measured i.e. 
 

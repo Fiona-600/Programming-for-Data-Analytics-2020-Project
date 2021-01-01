@@ -95,18 +95,17 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
     •	A ‘README.md’ file which contains:
 
-          •	The data set itself
-          •	Online and other research into the data set
-          •	Investigations into the data set
+          •	Introduction to the dataset and its related assumptions
           •	How to run the python code
-          •	What that code does.
-          •	All references used in completing the project
+          •	References used in completing the project
 
     •	A python program file called ‘FinalProject.ipynb’ which will:
 
-          1.  
-          2.  
-          3.  
+          •	The data set itself
+          •	Online and other research into the data set variables
+          •	Investigations into the relationship between data set variables
+
+    
 
 **Technology Used**
 

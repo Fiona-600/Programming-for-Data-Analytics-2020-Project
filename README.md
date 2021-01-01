@@ -34,7 +34,7 @@ The simulated ‘Animal Shelter Dataset’ is contained in the Final Project.ipy
 
 **Dataset Assumptions**
 
-A summary of the assumptions behind the dataset are detailed below:
+A summary of the assumptions behind the dataset simulation are detailed below:
 
 **Age**
 

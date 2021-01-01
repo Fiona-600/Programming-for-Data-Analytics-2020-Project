@@ -14,11 +14,11 @@ This project creates and models a simulated data set related to the factors unde
 
 **Qualities and attributes of the dataset**
 
-The dataset contains 200 samples (rows), and 7 variables (columns) namely; Duration (Days), Age_Mths, Age_Yrs, Gender, Pedigree, Size and Risk. 
+The dataset contains 200 samples (rows), and 7 variables (columns) namely: Duration (Days), Age_Mths, Age_Yrs, Gender, Pedigree, Size and Risk. 
 
 For each sample, the following features/variables were simulted i.e. 
 
-  -	Duration (Days): Number of days a dog stays in the shelter from entry to adoption, foster or euthenasia.  
+  -	Duration (Days): Number of days a dog stays in the shelter from entry to adoption, foster or euthenasia  
   -	Age_Mths: Age in months rounded to nearest month
   -	Age_Yrs: Age in years rounded to nearest year
   -	Gender: Sex of the animal (male or female)
@@ -39,7 +39,7 @@ A summary of the assumptions behind the dataset simulation are detailed below:
 
 **Age**
 
-The age profile of dogs in the dataset are broken down as follows: 
+The age profile of dogs are split as follows: 
 
 Puppy (<1 years) 36%; Adult (1-3 years) 29%; Adult (4-6 years) 19% Senior (7+) 16%
 
@@ -51,7 +51,7 @@ The split of male to female dogs was 57% male and 43% female.
 
 **Pedigree**
 
-The split of pedigree / crossbreed dogs was 21% pedigree and 79% crossbreed dogs.
+The split of purebred to crossbreed dogs was 21% purebred and 79% crossbred.
 
 **Size**
 
@@ -68,15 +68,13 @@ The average adoption time - 29 days
 Risk was estimated for each sample based on the results of age, gender, pedigree and size.
 
 
-**The Mean, Median, Standard Deviation, Min and Max Values by Species are contained in the Final Project.ipynb file**
+**The Mean, Median, Standard Deviation, Min and Max Values for each variable are contained in the Final Project.ipynb file**
 
 *Repository Link: https://github.com/Fiona-600/Programming-for-Data-Analytics-2020-Project/blob/main/Final%20Project.ipynb*
 
 
 
 **Purpose of the project**
-
-The presentation will include:
 
 This project creates and models a simulated data set related to a chosen real-world phenomenon using the numpy.random package in Python. This approach is taken rather than collecting the data.
 
@@ -89,7 +87,7 @@ The elements explored will be:
 
 **Structure & Project Navigation**
 
-The project will be stored in a GITHUB Repository at url: https://github.com/Fiona-600/Programming-for-Data-Analytics-2020-Project.git
+The project will be stored in a GITHUB Repository at url: https://github.com/Fiona-600/Programming-for-Data-Analytics-2020-Project
 
 1.	The GITHUB repository will contain:
 

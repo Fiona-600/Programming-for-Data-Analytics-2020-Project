@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 **Acknowledgments**
 
-Brian McGinley and Ian McLoughlin for all the helpful tips in completing these assignments
+Brian McGinley and Ian McLoughlin for all the helpful tips in completing this assignment
 
 
 

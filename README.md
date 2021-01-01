@@ -68,7 +68,7 @@ The average adoption time - 29 days
 Risk was estimated for each sample based on the results of age, gender, pedigree and size.
 
 
-*The Mean, Median, Standard Deviation, Min and Max Values by Species are contained in the Final Project.ipynb file*
+**The Mean, Median, Standard Deviation, Min and Max Values by Species are contained in the Final Project.ipynb file**
 
 *Repository Link: https://github.com/Fiona-600/Programming-for-Data-Analytics-2020-Project/blob/main/Final%20Project.ipynb*
 

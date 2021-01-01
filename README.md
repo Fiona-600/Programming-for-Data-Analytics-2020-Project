@@ -89,11 +89,21 @@ The elements explored will be:
 
 The project will be stored in a GITHUB Repository at url: https://github.com/Fiona-600/Programming-for-Data-Analytics-2020-Project
 
-1.	The GITHUB repository will contain:
-
-    •	A ‘LICENSE’ file containing a copy of the MIT Licence
+1.	The GITHUB repository contains:
 
     •	A ‘gitignore’ file containing any files or file types which should be ignored by the github repository  
+    
+    •	Austin-Dataset.csv - Study of 36,000 dogs in Austin, Texas
+
+    •	Dogs-Trust.csv - Study of 2,806 dogs by Dogs Trust in the UK
+
+    •	A python program file called ‘FinalProject.ipynb’ which contains:
+
+          •	The simulated data set
+          •	Online and other research into the data set variables
+          •	Investigations into the relationship between data set variables   
+    
+    •	A ‘LICENSE’ file containing a copy of the MIT Licence
 
     •	A ‘README.md’ file which contains:
 
@@ -101,13 +111,6 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
           •	How to run the python code
           •	References used in completing the project
 
-    •	A python program file called ‘FinalProject.ipynb’ which will:
-
-          •	The data set itself
-          •	Online and other research into the data set variables
-          •	Investigations into the relationship between data set variables
-
-    
 
 **Technology Used**
 
@@ -125,9 +128,8 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
   •	Clone or download the 'FinalProject.ipynb' file from Github onto your local drive
   •	Open the Jupyter Notebook file in your browser using CMDER
-  •	Use Restart and run all re-run the entire code in the notebook
-  •	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook with a .ipynb extension
-  •	Check output against expected output
+  •	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook re-run the entire code
+  •	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook
 
 **Libraries and Modules**
 

@@ -24,11 +24,14 @@ For each sample, five features/variables were measured i.e.
   -	Pedigree: Pedigree of the animal (purebred or crossbreed)
   - Size: Size of the animal (small, medium or large) 
 
-**Detailed Analysis - Initial Findings**
+**Simulated Animal Shelter Dataset**
 
-The detailed results of the initial analysis on ‘Animal Shelter Data Set’ are contained in the Final Project.ipynb file.
+The simulated ‘Animal Shelter Dataset’ are contained in the Final Project.ipynb file.
 
 *Repository Link: https://github.com/Fiona-600/Programming-for-Data-Analytics-2020-Project/blob/main/Final%20Project.ipynb*
+
+
+**Dataset Assumptions**
 
 A summary of the assumptions behind the dataset are detailed below:
 

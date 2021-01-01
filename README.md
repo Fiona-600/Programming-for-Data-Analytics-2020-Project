@@ -2,7 +2,7 @@
 
 **GMIT Higher Diploma in Data Analytics**
 
-**Submitted by Fiona Lee - 29 April 2020**
+**Submitted by Fiona Lee - 3 December 2021**
 
 **Introduction**
 
@@ -10,65 +10,88 @@ This project creates and models a simulated data set related to the factors unde
 
 ![alt text](https://i1.wp.com/puppytoob.com/wp-content/uploads/2017/07/Pet-Shelters.jpg?w=600&ssl=1)
 
-*Repository Link: https://i1.wp.com/puppytoob.com/wp-content/uploads/2017/07/Pet-Shelters.jpg?w=600&ssl=1*
+*Source: https://i1.wp.com/puppytoob.com/wp-content/uploads/2017/07/Pet-Shelters.jpg?w=600&ssl=1*
 
 
 **Preliminary Findings & Interpretation of the Data Set**
 
-**Qualities and attributes of the Iris dataset**
+**Qualities and attributes of the dataset**
 
-The Iris dataset contains 150 examples (rows), and 5 variables (columns) named; sepal length, sepal width, petal length, petal width, and species    
+The dataset contains 200 animals (rows), and 5 variables (columns) named; Duration (Days), Age_Yrs), Gender, Pedigree and Size, and species  
 
-Each row of the table represents one Iris flower, including its species and dimensions of its botanical anatomy (sepal length, sepal width, petal length, petal width) - see fig. 2 below..
+For each sample, five features/variables were measured i.e. 
 
-
-*Fig. 2 - Iris Data Set Sample*
-
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Fig%202%20%20Iris%20Data%20Set%20-%20First%2010%20Results.PNG?raw=true)
-
-*Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Fig%202%20%20Iris%20Data%20Set%20-%20First%2010%20Results.PNG
-
-
-
-
-For each sample, four features/variables were measured i.e. 
-
-  -	Sepal length in centimetres - sepal_length
-  -	Sepal width in centimetres - sepal_width
-  -	Petal length in centimetres - petal_length
-  -	Petal width in centimetres petal_width
-
-A flower is classified as either among those based on the four features given. Fisher developed a linear discriminant model to distinguish the species from each other based on the combination of these four features.
-
-The iris 'petal' and 'sepal' are indicated in fig. 3 below.
-
-
-*Fig 3 - Iris Petals and Sepals*
-
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Fig%203%20%20Iris%20petal%20and%20sepal.png?raw=true)
-
-*Repository link: https://github.com/Fiona-600/Project-2020/blob/master/Fig%203%20%20Iris%20petal%20and%20sepal.png*
-
+  -	Duration (Days): Number of days a dog stays in the shelter from entry to adoption, foster or euthenasia
+  -	Age_Yrs: Age in years rounded to nearest year
+  -	Gender: Sex of the amimal (male or female)
+  -	Pedigree: Pedigree of the amimal (purebred or crossbreed)
+  - Size: Size of the amimal (small, medium or large) 
 
 **Detailed Analysis - Initial Findings**
 
-The detailed results of the initial analysis on ‘Iris Data Set’ are contained in the Iris_Dataset_Summary.txt file.
+The detailed results of the initial analysis on ‘Animal Shelter Data Set’ are contained in the Final Project.ipynb file.
 
-*Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Iris_Dataset_Summary.txt*
+*Repository Link: https://github.com/Fiona-600/Programming-for-Data-Analytics-2020-Project/blob/main/Final%20Project.ipynb*
 
 A summary of the initial analysis is detailed below:
 
-*Table 2 - Number of Samples of each Variant*
+Age:
 
-  There are 3 species of iris flower (Setosa, Virginica, Versicolour), with 50 examples of each type. The number of data points for each class is equal, thus it is a balanced dataset.
+The age profile of dogs in the dataset are broken down as follows: 
 
-*Table 3 - Number of Columns and Number of Rows*
+UK: Puppy (0-1 years) 36%; Adult (1-3 years) 29%; Adult (4-6 years) 19% Senior (7+) 16%
 
-  The Iris dataset contains 150 rows and 5 columns
+UK: <6 mths 14%; 6-12 mths 22%; 1 year 12%; 2 years 11%; 3 years 6%; 4 years 8%; 5 years 7%; 6 years 4%; 7-9 years+ 13%; 10 yrs+ 3% (Extrapolated from US Study)
 
-*Table 4 - General Information about the Iris Data Set*
+Gender:
+Research Assumptions:
+UK: The split of male to female dogs based on 2,806 dogs in the 'Dogs Trust dataset' was 57% male and 43% female.
 
-  General information gives us mean, standard deviation, min and max information about the combined averages across the three iris species. This tells us only that iris versicolor is the closest to the average iris overall species measurement.
+UK Dogs Trust study: https://www.tandfonline.com/doi/full/10.1080/10888700903369255
+US: The split of male to female dogs based on 36,000 dogs in the 'Austin animal shelter dataset' was 54% male and 46% female.
+
+US Study: https://data.world/rdowns26/austin-animal-shelter/workspace/file?filename=Austin_Animal_Center_Intakes.csv
+Close to equal numbers of male and female dogs were surrendered.
+
+US Study 2008-2011: https://www.companionanimalpsychology.com/2013/03/what-influences-dogs-length-of-stay-at.html
+Pedigree:
+Research Assumptions:
+UK: The split of pedigree / crossbreed dogs based on 2,806 dogs in the 'Dogs Trust dataset' was 21% pedigree and 79% crossbreed dogs.
+
+UK Dogs Trust study: https://www.tandfonline.com/doi/full/10.1080/10888700903369255
+US: The split of pedigree / crossbreed dogs based on 36,000 dogs in the 'Austin animal shelter dataset' was 7% pedigree and 93% crossbreed dogs.
+
+US Study: https://data.world/rdowns26/austin-animal-shelter/workspace/file?filename=Austin_Animal_Center_Intakes.csv
+Size:
+Research Assumptions:
+UK: The split of pedigree / crossbreed dogs based on 2,806 dogs in the 'Dogs Trust dataset' was 22% small (<10kg), 60% medium (10-30kg) and 18% large (>30kg).
+
+UK Dogs Trust study: https://www.tandfonline.com/doi/full/10.1080/10888700903369255
+US: The split of pedigree / crossbreed dogs based on 36,000 dogs in the 'Austin animal shelter dataset' was 30% small (<10kg), 29% medium (10-30kg) and 40% large (>30kg).
+
+US Study: https://data.world/rdowns26/austin-animal-shelter/workspace/file?filename=Austin_Animal_Center_Intakes.csv
+
+XS dogs are adopted soonest, followed by the small dogs. XL dogs (e.g. St Bernards) were quite unique and likely were adopted out because of this. Length of stay increased with age and was highest for medium-sized dogs.
+
+US Study: https://faunalytics.org/effects-of-phenotypic-characteristics-on-the-length-of-stay-of-dogs-at-two-no-kill-animal-shelters-2/
+
+US Study 2008-2011: https://www.companionanimalpsychology.com/2013/03/what-influences-dogs-length-of-stay-at.html
+Length of Stay (Duration (Days)):
+Research Assumptions:
+UK average adoption time - 29 days
+
+UK: Puppies < 6 months - 20 days; 6-12 months - 28 days; Adult dogs (1-6 years) - 32 days; Seniors 7+ years - 72 days (Extrapolated split by age based on US Stats)
+
+UK Study 2001-2004: https://www.researchgate.net/publication/244642863_Factors_affecting_time_to_adoption_of_dogs_re-homed_by_a_charity_in_the_UK
+
+UK Study: https://veterinaryrecord.bmj.com/content/161/9/283.2
+US average adoption time - 35 days
+
+US Puppies < 6 months - 23 days; 6-12 months - 33 days; Adult dogs (1-6 years) - 42 days; Seniors 7+ years - 89 days
+
+US Study 2008-2011: https://www.companionanimalpsychology.com/2013/03/what-influences-dogs-length-of-stay-at.html US Study (Senior Dogs): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5867524/
+
+
 
 *Table 5 - Mean, Median, Standard Deviation, Min and Max Values by Species*
 

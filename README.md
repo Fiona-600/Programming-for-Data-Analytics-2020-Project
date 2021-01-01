@@ -93,6 +93,8 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
     •	A ‘LICENSE’ file containing a copy of the MIT Licence
 
+    •	A ‘gitignore’ file containing any files or file types which should be ignored by the github repository  
+
     •	A ‘README.md’ file which contains:
 
           •	Introduction to the dataset and its related assumptions
@@ -111,21 +113,21 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 **Required Programs**
 
-	•	Anaconda Navigator 3
-	•	Visual Studio Code
-	•	Python version 3.7.4
-  •	Cmder 
-	•	GitHub
- 	•	MS Office 
-	•	Firefox Internet Explorer
+	•	Anaconda Navigator 3 - https://www.anaconda.com/
+	•	Jupyter Notebook - https://jupyter.org/install  
+	•	Python version 3.8.3 - downloaded via Anaconda Navigator 3 to Windows 10 OS
+  •	Cmder Console Emulator - https://cmder.net/
+	•	GitHub Repository Storage - https://github.com/
+ 	•	Firefox Internet Explorer - https://www.mozilla.org/en-US/firefox/new/
 
-**Procedure for downloading required programs**
 
-    •	Python version 3.7.4 was downloaded via Anaconda Navigator 3 to Windows 10 OS (https://www.anaconda.com/).
-    •	Microsoft Visual Studio Code was downloaded (https://code.visualstudio.com/).
-    •	Microsoft Visual Studio Code was configurated with GitHub (https://github.com/).
-    •	The Iris dataset was imported to Python as a CSV file 
+**Opening and running the code in the Jupyter Notebook**
 
+  •	Clone or download the 'FinalProject.ipynb' file from Github onto your local drive
+  •	Open the Jupyter Notebook file in your browser using CMDER
+  •	Use Restart and run all re-run the entire code in the notebook
+  •	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook with a .ipynb extension
+  •	Check output against expected output
 
 **Libraries and Modules**
 
@@ -135,7 +137,7 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
         
     •	Matplotlib - ‘import matplotlib.pyplot as plt’
 
-    •	Seaborn - ‘import seaborn as sns’, 'sms.set'
+    •	Seaborn - ‘import seaborn as sns’
 
 
 

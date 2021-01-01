@@ -51,7 +51,7 @@ The split of male to female dogs was 57% male and 43% female.
 
 **Pedigree**
 
-The split of purebred to crossbreed dogs was 21% purebred and 79% crossbred.
+The split of purebred to crossbred dogs was 21% purebred and 79% crossbred.
 
 **Size**
 
@@ -76,11 +76,11 @@ Risk was estimated for each sample based on the results of age, gender, pedigree
 
 **Purpose of the project**
 
-This project creates and models a simulated data set related to a chosen real-world phenomenon using the numpy.random package in Python. This approach is taken rather than collecting the data.
+This project creates and models a simulated data set related to a chosen real-world phenomenon using the numpy.random package in python. This approach is taken rather than collecting the data.
 
 The elements explored will be:
 
-1.	An explanation of what investigating a data set entails
+1.	Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four   different variables.
 2.	Investigate the types of variables involved, their likely distributions, and their relationships with each other.
 3.	Synthesise/simulate a data set as closely matching their properties as possible.
 4.	Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell   within the notebook.

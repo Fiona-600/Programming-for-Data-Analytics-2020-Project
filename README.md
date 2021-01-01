@@ -125,10 +125,11 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 **Opening and running the code in the Jupyter Notebook**
 
-  •	Clone or download the 'FinalProject.ipynb' file from Github onto your local drive
-  •	Open the Jupyter Notebook file in your browser using CMDER
-  •	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook re-run the entire code
-  •	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook
+
+	•	Clone or download the 'FinalProject.ipynb' file from Github onto your local drive
+	•	Open the Jupyter Notebook file in your browser using CMDER
+	•	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook re-run the entire code
+	•	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook
 
 **Libraries and Modules**
 

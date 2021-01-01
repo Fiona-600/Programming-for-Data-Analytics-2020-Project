@@ -14,16 +14,17 @@ This project creates and models a simulated data set related to the factors unde
 
 **Qualities and attributes of the dataset**
 
-The dataset contains 200 samples (rows), and 6 variables (columns) named; Duration (Days), Age_Mths, Age_Yrs, Gender, Pedigree and Size. 
+The dataset contains 200 samples (rows), and 7 variables (columns) namely; Duration (Days), Age_Mths, Age_Yrs, Gender, Pedigree, Size and Risk. 
 
-For each sample, five features/variables were measured i.e. 
+For each sample, the following features/variables were simulted i.e. 
 
-  -	Duration (Days): Number of days a dog stays in the shelter from entry to adoption, foster or euthenasia
+  -	Duration (Days): Number of days a dog stays in the shelter from entry to adoption, foster or euthenasia.  
   -	Age_Mths: Age in months rounded to nearest month
   -	Age_Yrs: Age in years rounded to nearest year
   -	Gender: Sex of the animal (male or female)
   -	Pedigree: Pedigree of the animal (purebred or crossbreed)
   - Size: Size of the animal (small, medium or large) 
+  - Risk: The risk of long stay/euthenasia (low, medium, high and v-high)
 
 **Simulated Animal Shelter Dataset**
 
@@ -58,11 +59,18 @@ The split of sizes were 22% small (<10kg), 60% medium (10-30kg) and 18% large (>
 
 **Length of Stay (Duration (Days))**
 
+Duration (Days) was simulated based on the 'Risk' variable. 
+
 The average adoption time - 29 days
 
 *The Mean, Median, Standard Deviation, Min and Max Values by Species are contained in the Final Project.ipynb file*
 
 *Repository Link: https://github.com/Fiona-600/Programming-for-Data-Analytics-2020-Project/blob/main/Final%20Project.ipynb*
+
+
+**Risk**
+
+Risk was estimated for each sample based on the results of age, gender, pedigree and size.
 
 **Purpose of the project**
 

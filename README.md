@@ -12,20 +12,17 @@ This project creates and models a simulated data set related to the factors unde
 
 *Source: https://i1.wp.com/puppytoob.com/wp-content/uploads/2017/07/Pet-Shelters.jpg?w=600&ssl=1*
 
-
-**Preliminary Findings & Interpretation of the Data Set**
-
 **Qualities and attributes of the dataset**
 
-The dataset contains 200 animals (rows), and 5 variables (columns) named; Duration (Days), Age_Yrs, Gender, Pedigree and Size, and species  
+The dataset contains 200 samples (rows), and 5 variables (columns) named; Duration (Days), Age_Yrs, Gender, Pedigree and Size, and species  
 
 For each sample, five features/variables were measured i.e. 
 
   -	Duration (Days): Number of days a dog stays in the shelter from entry to adoption, foster or euthenasia
   -	Age_Yrs: Age in years rounded to nearest year
-  -	Gender: Sex of the amimal (male or female)
-  -	Pedigree: Pedigree of the amimal (purebred or crossbreed)
-  - Size: Size of the amimal (small, medium or large) 
+  -	Gender: Sex of the animal (male or female)
+  -	Pedigree: Pedigree of the animal (purebred or crossbreed)
+  - Size: Size of the animal (small, medium or large) 
 
 **Detailed Analysis - Initial Findings**
 
@@ -35,7 +32,7 @@ The detailed results of the initial analysis on ‘Animal Shelter Data Set’ ar
 
 A summary of the assumptions behind the dataset are detailed below:
 
-Age:
+*Age*
 
 The age profile of dogs in the dataset are broken down as follows: 
 
@@ -43,19 +40,19 @@ Puppy (<1 years) 36%; Adult (1-3 years) 29%; Adult (4-6 years) 19% Senior (7+) 1
 
 <6 mths 14%; 6-12 mths 22%; 1 year 12%; 2 years 11%; 3 years 6%; 4 years 8%; 5 years 7%; 6 years 4%; 7-9 years+ 13%; 10 yrs+ 3% (Extrapolated from US Study)
 
-Gender:
+*Gender*
 
 The split of male to female dogs was 57% male and 43% female.
 
-Pedigree:
+*Pedigree*
 
 The split of pedigree / crossbreed dogs was 21% pedigree and 79% crossbreed dogs.
 
-Size:
+*Size*
 
 The split of pedigree / crossbreed dogs based on 2,806 dogs in the 'Dogs Trust dataset' was 22% small (<10kg), 60% medium (10-30kg) and 18% large (>30kg).
 
-Length of Stay (Duration (Days)):
+*Length of Stay (Duration (Days))*
 
 The average adoption time - 29 days
 

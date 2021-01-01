@@ -125,7 +125,6 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 **Opening and running the code in the Jupyter Notebook**
 
-
 	•	Clone or download the 'FinalProject.ipynb' file from Github onto your local drive
 	•	Open the Jupyter Notebook file in your browser using CMDER
 	•	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook re-run the entire code
@@ -134,14 +133,9 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 **Libraries and Modules**
 
     •	NumPy - ‘import numpy as np’
-
-    •	Pandas – ‘import pandas as pd’
-        
+    •	Pandas – ‘import pandas as pd’     
     •	Matplotlib - ‘import matplotlib.pyplot as plt’
-
     •	Seaborn - ‘import seaborn as sns’
-
-
 
 **Author & Contributors**
 

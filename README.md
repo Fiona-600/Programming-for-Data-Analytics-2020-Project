@@ -19,6 +19,7 @@ The dataset contains 200 samples (rows), and 6 variables (columns) named; Durati
 For each sample, five features/variables were measured i.e. 
 
   -	Duration (Days): Number of days a dog stays in the shelter from entry to adoption, foster or euthenasia
+  -	Age_Mths: Age in months rounded to nearest month
   -	Age_Yrs: Age in years rounded to nearest year
   -	Gender: Sex of the animal (male or female)
   -	Pedigree: Pedigree of the animal (purebred or crossbreed)

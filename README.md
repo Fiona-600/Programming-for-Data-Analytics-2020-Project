@@ -54,7 +54,7 @@ The split of pedigree / crossbreed dogs was 21% pedigree and 79% crossbreed dogs
 
 **Size**
 
-The split of pedigree / crossbreed dogs based on 2,806 dogs in the 'Dogs Trust dataset' was 22% small (<10kg), 60% medium (10-30kg) and 18% large (>30kg).
+The split of sizes were 22% small (<10kg), 60% medium (10-30kg) and 18% large (>30kg).
 
 **Length of Stay (Duration (Days))**
 

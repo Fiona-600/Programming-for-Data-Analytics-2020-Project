@@ -55,7 +55,7 @@ The split of pedigree / crossbreed dogs was 21% pedigree and 79% crossbreed dogs
 
 **Size**
 
-The split of sizes were 22% small (<10kg), 60% medium (10-30kg) and 18% large (>30kg).
+The split of sizes were 22% small (<10kg); 60% medium (10-30kg) and 18% large (>30kg).
 
 **Length of Stay (Duration (Days))**
 
@@ -63,14 +63,16 @@ Duration (Days) was simulated based on the 'Risk' variable.
 
 The average adoption time - 29 days
 
+**Risk**
+
+Risk was estimated for each sample based on the results of age, gender, pedigree and size.
+
+
 *The Mean, Median, Standard Deviation, Min and Max Values by Species are contained in the Final Project.ipynb file*
 
 *Repository Link: https://github.com/Fiona-600/Programming-for-Data-Analytics-2020-Project/blob/main/Final%20Project.ipynb*
 
 
-**Risk**
-
-Risk was estimated for each sample based on the results of age, gender, pedigree and size.
 
 **Purpose of the project**
 

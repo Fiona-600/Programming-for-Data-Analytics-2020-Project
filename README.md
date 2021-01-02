@@ -93,7 +93,7 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
     •	A ‘gitignore’ file containing any files or file types which should be ignored by the github repository  
     
-    •	Austin-Dataset.csv - Study of 36,000 dogs in Austin, Texas
+    •	Austin-Dataset.csv - Study of 27,000 dogs in Austin, Texas
 
     •	Dogs-Trust.csv - Study of 2,806 dogs by Dogs Trust in the UK
 

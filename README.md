@@ -16,13 +16,13 @@ This project creates and models a simulated data set related to the factors unde
 
 The dataset contains 200 samples (rows), and 7 variables (columns) namely: Duration (Days), Age_Mths, Age_Yrs, Gender, Pedigree, Size and Risk. 
 
-For each sample, the following features/variables were simulted i.e. 
+For each sample, the following features/variables were simulated i.e. 
 
   -	Duration (Days): Number of days a dog stays in the shelter from entry to adoption, foster or euthenasia  
   -	Age_Mths: Age in months rounded to nearest month
   -	Age_Yrs: Age in years rounded to nearest year
   -	Gender: Sex of the animal (male or female)
-  -	Pedigree: Pedigree of the animal (purebred or crossbreed)
+  -	Pedigree: Pedigree of the animal (purebred or crossbred)
   - Size: Size of the animal (small, medium or large) 
   - Risk: The risk of long stay/euthenasia (low, medium, high and v-high)
 
@@ -93,13 +93,16 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
     •	A ‘gitignore’ file containing any files or file types which should be ignored by the github repository  
     
-    •	Austin-Dataset.csv - Study of 27,000 dogs in Austin, Texas
+    •	Austin-Dataset.xlsx - Study of 27,000 dogs in Austin, Texas
 
-    •	Dogs-Trust.csv - Study of 2,806 dogs by Dogs Trust in the UK
+    •	Dogs-Trust.xlsx - Study of 2,806 dogs by Dogs Trust in the UK
 
     •	A python program file called ‘FinalProject.ipynb’ which contains:
 
+          •	The 'Austin' data set
+          •	The 'Dogs Trust' data set
           •	The simulated data set
+          •	The assumptions related to the simulated data set          
           •	Online and other research into the data set variables
           •	Investigations into the relationship between data set variables   
     

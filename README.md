@@ -51,7 +51,7 @@ The split of male to female dogs was 57% male and 43% female.
 
 **Pedigree**
 
-The split of purebred to crossbred dogs was 21% purebred and 79% crossbred.
+The split of purebred to crossbreed dogs was 21% purebred and 79% crossbreed.
 
 **Size**
 
@@ -115,8 +115,6 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
           •	References used in completing the project
 
 
-**Technology Used**
-
 **Required Programs**
 
 	•	Anaconda Navigator 3 - https://www.anaconda.com/
@@ -130,7 +128,7 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 	•	Clone or download the 'FinalProject.ipynb' file from Github onto your local drive
 	•	Open the Jupyter Notebook file in your browser using CMDER
-	•	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook re-run the entire code
+	•	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook to re-run the entire code
 	•	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook
 
 **Libraries and Modules**

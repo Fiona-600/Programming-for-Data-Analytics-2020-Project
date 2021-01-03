@@ -157,3 +157,46 @@ Brian McGinley and Ian McLoughlin for all the helpful tips in completing this as
 
 **References**
 
+Irish Study: https://www.thejournal.ie/dogs-abandoned-5194543-Sep2020/
+
+UK Study: https://veterinaryrecord.bmj.com/content/161/9/283.2
+
+UK Dogs Trust study:https://www.tandfonline.com/doi/full/10.1080/10888700903369255
+
+UK Study: https://www.tandfonline.com/doi/abs/10.1080/10888700903369255?journalCode=haaw20
+
+US Study: https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics
+
+US Study: https://www.petfinder.com/pet-adoption/dog-adoption/pets-relinquished-shelters/
+
+US Study: https://pubmed.ncbi.nlm.nih.gov/32575574/#&gid=article-figures&pid=figure-2-uid-1
+
+US Study: https://news.orvis.com/dogs/when-is-it-time-to-surrender-your-dog
+
+US Study: https://faunalytics.org/understanding-the-factors-that-lead-to-successful-dog-adoptions/
+
+US Study: https://pubmed.ncbi.nlm.nih.gov/29557174/
+
+US Study: https://apnews.com/article/218042cf3f684525874f48ae990ed49b
+
+US Study: https://www.hillspet.com/dog-care/new-pet-parent/common-reasons-adopted-dogs-are-returned-to-shelters
+
+US Study: https://www.companionanimalpsychology.com/2013/03/what-influences-dogs-length-of-stay-at.html
+
+US Re-homing stats:https://data.world/rdowns26/austin-animal-shelter/workspace/file?filename=Project+Report.pdf
+
+US Older dog study:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5867524/
+
+US Study: https://data.world/rdowns26/austin-animal-shelter/workspace/file?filename=Austin_Animal_Center_Intakes.csv
+
+https://thispointer.com/pandas-skip-rows-while-reading-csv-file-to-a-dataframe-using-read_csv-in-python/
+
+https://stackoverflow.com/questions/32249960/in-python-pandas-start-row-index-from-1-instead-of-zero-without-creating-additi
+
+https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/
+
+https://stackoverflow.com/questions/23377108/pandas-percentage-of-total-with-groupby
+
+https://stackoverflow.com/questions/30009948/how-to-reorder-indexed-rows-based-on-a-list-in-pandas-data-frame/3001000
+
+https://stackoverflow.com/questions/39482722/how-to-print-dataframe-on-single-line
